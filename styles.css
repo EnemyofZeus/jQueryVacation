@@ -17,7 +17,7 @@ h1 {
 .container {
     height: 100vh;
     width: 100vw;
-    background-image: url("mountain.jpeg");
+    background-image: url("lake.jpg");
     background-size: cover;
 }
 
@@ -39,12 +39,12 @@ h1 {
 }
 .hidden{
   height:100vh;
-  width:20vw;
+  width:10vw;
   display:none;
-  background-color: green;
+  background-color: rgba(25,25,150,0.4);
 }
 .hidden li{
-  background-color: red;
+  background-color: rgba(155,155,175,0.5);
   border: solid yellow 2px;
   margin: 10px;
 }
